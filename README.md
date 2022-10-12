@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CollinDex
-- 👀 I’m currently interested in web development, python, data science and machine learning.
+- 👀 I’m currently interested in web development, software development, python, data science and machine learning.
 - 🌱 I’m currently learning  JavaScript, React and Redux.
-- 💞️ I’m looking to collaborate on any web development internship program.
+- 💞️ I’m looking to collaborate on any open source program.
 - 📫 Reach me on obetscollins@gmail.com
 
 <!---
