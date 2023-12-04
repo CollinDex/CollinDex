@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CollinDex
-- 👀 I’m currently interested in software development, python, data science and machine learning.
-- 🌱 I’m currently learning  SQL.
+- 👀 I’m a fullstack web developer.(PERN)
+- 👀 I'm interested in software and blockchain engineering.
 - 💞️ I’m looking to collaborate on any open source program.
 - 📫 Reach me on obetscollins@gmail.com
 
