@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CollinDex
-- 👀 I’m a fullstack web developer.(PERN)
-- 👀 I'm interested in software and blockchain engineering.
-- 💞️ I’m looking to collaborate on any open source program.
+- 👀 I’m a Fullstack Developer.(PERN)
+- 👀 I'm interested in software, blockchain engineering and Machine Learning.
+- 💞️ I’m looking to collaborate on any open source project(healthtech related).
 - 📫 Reach me on obetscollins@gmail.com
 
 <!---
