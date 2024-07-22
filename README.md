@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @CollinDex. A fullstack developer interested in Software, Blockchain engineering and Machine Learning.
-- 💞️ I have a keen intrest in HealthTech and I am willing to collaborate on any open source healthtech project.
+# 👋 Hi, I’m Obetta Chibuikem Collins.
+- 😎 A passionate software developer.
 - 📫 Reach me on obetscollins@gmail.com
 
 <!---
