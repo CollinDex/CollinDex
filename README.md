@@ -1,5 +1,6 @@
 # 👋 Hi, I’m Obetta Chibuikem Collins.
-- 😎 A passionate software developer.
+- 😎 A software developer and medical student passionate about building software that solves real world problems.
+- I am open to opportunities and collaborations, feel free to reach out!
 - 📫 Reach me on obetscollins@gmail.com
 
 <!---
