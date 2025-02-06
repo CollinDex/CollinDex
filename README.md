@@ -9,7 +9,7 @@ A software developer passionate about building software that solves real world p
 * 🌍  I'm based in Nigeria
 * 🖥️  See my portfolio at [MyPortfolio](http://portfolio-page-hhmq.onrender.com/)
 * ✉️  You can contact me at [obetscollins@gmail.com](mailto:obetscollins@gmail.com)
-* 🤝  I'm open to collaborating on Health Tech and AI related projects
+* 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
 
